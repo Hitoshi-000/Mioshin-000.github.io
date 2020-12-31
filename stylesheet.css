@@ -26,10 +26,9 @@ li {
   padding:30px 10px;
 }
 
-
-
 .main{
   padding: 100px 80px;
+  font-size:25px;
 }
 .main-2{
   border-bottom: 2px solid #dee7ec;
@@ -38,6 +37,9 @@ li {
   padding-bottom: 10px;
   margin-bottom: 50px;
   background-color:;
+}
+p{
+  font-size:25px;
 }
 #page-top{
   width: 90px;
@@ -67,6 +69,9 @@ li {
   left: 0;
   margin: auto;
   text-align: center;
+}
+.next-page{
+   
 }
 .contact-form {
   padding-top: 100px;
