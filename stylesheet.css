@@ -41,6 +41,30 @@ li {
 p{
   font-size:25px;
 }
+.hitoshi{
+  font-size:40px;
+}
+.hitoshi-2{
+  font-size:40px;
+}
+.hitoshi-3{
+  font-size:40px;
+}
+span{
+  color:red;
+}
+
+.main-3{
+  border-bottom: 2px solid #dee7ec;
+  font-size: 40px;
+  padding-top:100px;
+  padding-bottom: 10px;
+  margin-bottom: 50px;
+  background-color:;
+}
+
+
+
 #page-top{
   width: 90px;
   height: 25px;
