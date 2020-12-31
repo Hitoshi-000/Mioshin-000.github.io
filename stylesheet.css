@@ -41,7 +41,7 @@ li {
 }
 #page-top{
   width: 90px;
-  height: 60px;
+  height: 25px;
   position: fixed;
   right: 0;
   bottom: 0;
@@ -56,28 +56,12 @@ li {
   height: 60px;
   text-decoration: none;
 }
-#page-top a::before{
-  font-family: 'Font Awesome 5 Free';
-  font-weight: 900;
-  content: '\f062';
-  font-size: 25px;
-  color: #3f98ef;
-  position: absolute;
-  width: 25px;
-  height: 25px;
-  top: -25px;
-  bottom: 0;
-  right: 0;
-  left: 0;
-  margin: auto;
-  text-align: center;
-}
 #page-top a::after{
-  content: 'PAGE TOP';
-  font-size: 13px;
+  content: '↑PAGE TOP';
+  font-size: 15px;
   color: #3f98ef;
   position: absolute;
-  top: 38px;
+  top: 2px;
   bottom: 0;
   right: 0;
   left: 0;
@@ -122,4 +106,8 @@ textarea{
 
 .footer{
   background-color:ButtonHighlight;
+  height:130px;
 }
+
+
+
