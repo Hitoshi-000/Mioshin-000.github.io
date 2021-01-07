@@ -1,0 +1,31 @@
+html, body,
+ul, ol, li,
+h1, h2, h3, h4, h5, h6, p,
+form, input, div {
+  margin: 0;
+  padding: 0;
+}
+
+
+body { 
+  font-family: "Yu Gothic Medium", "游ゴジックMedium", Yugothic , "游ゴジック体",  sans-serif;
+} 
+li { 
+  list-style: none;
+}
+.aa{
+  font-size:60px;
+}
+.aaa{
+  font-size:60px;
+}
+.button{
+  font-size:5px;
+  background:#0bd;
+  color:#fff;
+  border-radius:5px;
+  padding:18px 32px;
+}
+.button:hover{
+  background:#0090aa;
+}
