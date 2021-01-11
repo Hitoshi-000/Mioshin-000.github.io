@@ -11,10 +11,12 @@ body {
 } 
 li { 
   list-style: none;
+  font-size:25px;
+  
 }
 .header{
   background-image:url(https://www.pakutaso.com/shared/img/thumb/redstymtA014_TP_V.jpg);
-  height:500px;
+  height:400px;
 }
 .header-logo{
   font-size:60px;
@@ -28,19 +30,32 @@ li {
 
 .main{
   padding: 100px 80px;
-  margin:200px;
+  margin-right:195px;
 }
 .tocs1 {
   color:navy;
   border: solid 5px #AEFFBD ;
   background-color:#AEFFBD;
   box-shadow: 0 10px 10px rgba(5, 0, 0,0.5);
-  border-radius: 15px;
-  padding-right: 30px;
-  max-width: 500px;
+  border-radius:15px;
+  padding-right:30px;
+  padding-left:30px;
+  max-width: 900px;
 }
 .aaa{
   font-size:30px;
+  padding:10px 380px;
+}
+.mokuzi{
+  padding:0px 30px;
+}
+.main-1{
+  border-bottom: 2px solid #dee7ec;
+  border-left:10px solid #6927FF;
+  font-size:40px;
+  padding-top:10px;
+  padding-bottom: 10px;
+  margin-bottom: 50px;
 }
 .main-2{
   border-bottom: 2px solid #dee7ec;
@@ -49,22 +64,27 @@ li {
   padding-top:10px;
   padding-bottom: 10px;
   margin-bottom: 50px;
-  background-color:;
 }
 p{
   font-size:25px;
 }
 .hitoshi{
-  font-size:40px;
+  font-size:32px;
+  background-color:#D3D3D3;
+  border-bottom: 2px solid navy;
+  padding:20px;
 }
 .hitoshi-2{
-  font-size:40px;
+  font-size:32px;
+  background-color:#D3D3D3;
+  border-bottom: 2px solid navy;
+  padding:20px;
 }
 .hitoshi-3{
-  font-size:40px;
-}
-span{
-  color:red;
+  font-size:32px;
+  background-color:#D3D3D3;
+  border-bottom: 2px solid navy;
+  padding:20px;
 }
 
 .main-3{
@@ -74,7 +94,6 @@ span{
   padding-top:10px;
   padding-bottom: 10px;
   margin-bottom: 50px;
-  background-color:;
 }
 
 
@@ -109,7 +128,12 @@ span{
   text-align: center;
 }
 .next-page{
-   
+   margin:50px 390px;
+   border-radius:5px;
+  background-color: lightblue;
+  text-decoration:none;
+  padding:10px;
+  color:white;
 }
 .contact-form {
   padding-top: 100px;
@@ -121,7 +145,7 @@ span{
   padding-top:10px;
   padding-bottom: 10px;
   margin-bottom: 50px;
-  background-color:;
+  border-left:10px solid #6927FF;
 }
 
 input{
@@ -151,6 +175,7 @@ textarea{
   background-color:ButtonHighlight;
   height:130px;
 }
+
 
 
 
