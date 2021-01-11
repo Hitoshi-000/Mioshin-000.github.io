@@ -11,10 +11,12 @@ body {
 } 
 li { 
   list-style: none;
+  font-size:25px;
+  
 }
 .header{
   background-image:url(https://www.pakutaso.com/shared/img/thumb/redstymtA014_TP_V.jpg);
-  height:500px;
+  height:400px;
 }
 .header-logo{
   font-size:60px;
@@ -28,41 +30,44 @@ li {
 
 .main{
   padding: 100px 80px;
-  font-size:25px;
+  margin-right:195px;
 }
-.main-2{
+img{
+  width:700px;
+  margin-left:100px ;
+}
+.main-4{
   border-bottom: 2px solid #dee7ec;
-  font-size: 40px;
+  border-left:10px solid #6927FF;
+  font-size:40px;
   padding-top:10px;
   padding-bottom: 10px;
   margin-bottom: 50px;
-  background-color:;
 }
+.main-5{
+  border-bottom: 2px solid #dee7ec;
+  border-left:10px solid #6927FF;
+  font-size:40px;
+  padding-top:10px;
+  padding-bottom: 10px;
+  margin-bottom: 50px;
+}
+
+.main-6{
+  border-bottom: 2px solid #dee7ec;
+  border-left:10px solid #6927FF;
+  font-size:40px;
+  padding-top:10px;
+  padding-bottom: 10px;
+  margin-bottom: 50px;
+}
+
 p{
-  font-size:25px;
-}
-.hitoshi{
-  font-size:40px;
-}
-.hitoshi-2{
-  font-size:40px;
-}
-.hitoshi-3{
-  font-size:40px;
+  font-size:20px;
 }
 span{
   color:red;
 }
-
-.main-3{
-  border-bottom: 2px solid #dee7ec;
-  font-size: 40px;
-  padding-top:100px;
-  padding-bottom: 10px;
-  margin-bottom: 50px;
-  background-color:;
-}
-
 
 
 #page-top{
@@ -94,9 +99,7 @@ span{
   margin: auto;
   text-align: center;
 }
-.next-page{
-   
-}
+
 .contact-form {
   padding-top: 100px;
 }
@@ -107,7 +110,7 @@ span{
   padding-top:10px;
   padding-bottom: 10px;
   margin-bottom: 50px;
-  background-color:;
+  border-left:10px solid #6927FF;
 }
 
 input{
