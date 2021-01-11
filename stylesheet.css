@@ -66,7 +66,7 @@ li {
   margin-bottom: 50px;
 }
 p{
-  font-size:25px;
+  font-size:20px;
 }
 .hitoshi{
   font-size:32px;
@@ -130,7 +130,7 @@ p{
 .next-page{
    margin:50px 390px;
    border-radius:5px;
-  background-color: lightblue;
+  background-color:lightblue;
   text-decoration:none;
   padding:10px;
   color:white;
